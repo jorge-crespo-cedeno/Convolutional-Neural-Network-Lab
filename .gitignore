@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+preprocess_validation.p
+preprocess_train.p
+preprocess_test.p
+image_classification*
+checkpoint
